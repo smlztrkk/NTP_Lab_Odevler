@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "naRV+CecHIGRoW1MbDOkWWkeJwk6C+Zu9hqbCud+s/sN/MhqSP2PS/ve/5hHAJ/I3KzixZllxoNZxuATj8UNXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\İsmail\\Desktop\\odevler\\odev5\\odev5\\odev5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\İsmail\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\İsmail\Desktop\ödevler\odev5\odev5\bin\Debug\netcoreapp3.1\odev5.exe
+C:\Users\İsmail\Desktop\ödevler\odev5\odev5\bin\Debug\netcoreapp3.1\odev5.deps.json
+C:\Users\İsmail\Desktop\ödevler\odev5\odev5\bin\Debug\netcoreapp3.1\odev5.runtimeconfig.json
+C:\Users\İsmail\Desktop\ödevler\odev5\odev5\bin\Debug\netcoreapp3.1\odev5.runtimeconfig.dev.json
+C:\Users\İsmail\Desktop\ödevler\odev5\odev5\bin\Debug\netcoreapp3.1\odev5.dll
+C:\Users\İsmail\Desktop\ödevler\odev5\odev5\bin\Debug\netcoreapp3.1\odev5.pdb
+C:\Users\İsmail\Desktop\ödevler\odev5\odev5\obj\Debug\netcoreapp3.1\odev5.csproj.AssemblyReference.cache
+C:\Users\İsmail\Desktop\ödevler\odev5\odev5\obj\Debug\netcoreapp3.1\odev5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İsmail\Desktop\ödevler\odev5\odev5\obj\Debug\netcoreapp3.1\odev5.AssemblyInfoInputs.cache
+C:\Users\İsmail\Desktop\ödevler\odev5\odev5\obj\Debug\netcoreapp3.1\odev5.AssemblyInfo.cs
+C:\Users\İsmail\Desktop\ödevler\odev5\odev5\obj\Debug\netcoreapp3.1\odev5.csproj.CoreCompileInputs.cache
+C:\Users\İsmail\Desktop\ödevler\odev5\odev5\obj\Debug\netcoreapp3.1\odev5.dll
+C:\Users\İsmail\Desktop\ödevler\odev5\odev5\obj\Debug\netcoreapp3.1\odev5.pdb
+C:\Users\İsmail\Desktop\ödevler\odev5\odev5\obj\Debug\netcoreapp3.1\odev5.genruntimeconfig.cache
