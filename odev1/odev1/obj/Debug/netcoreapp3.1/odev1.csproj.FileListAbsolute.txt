@@ -1,0 +1,14 @@
+C:\Users\ismail\source\repos\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.exe
+C:\Users\ismail\source\repos\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.deps.json
+C:\Users\ismail\source\repos\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.runtimeconfig.json
+C:\Users\ismail\source\repos\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.runtimeconfig.dev.json
+C:\Users\ismail\source\repos\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.dll
+C:\Users\ismail\source\repos\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.pdb
+C:\Users\ismail\source\repos\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.csproj.AssemblyReference.cache
+C:\Users\ismail\source\repos\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismail\source\repos\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.AssemblyInfoInputs.cache
+C:\Users\ismail\source\repos\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.AssemblyInfo.cs
+C:\Users\ismail\source\repos\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.csproj.CoreCompileInputs.cache
+C:\Users\ismail\source\repos\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.dll
+C:\Users\ismail\source\repos\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.pdb
+C:\Users\ismail\source\repos\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\İsmail\Desktop\ödevler\odev3\odev3\bin\Debug\netcoreapp3.1\odev3.exe
+C:\Users\İsmail\Desktop\ödevler\odev3\odev3\bin\Debug\netcoreapp3.1\odev3.deps.json
+C:\Users\İsmail\Desktop\ödevler\odev3\odev3\bin\Debug\netcoreapp3.1\odev3.runtimeconfig.json
+C:\Users\İsmail\Desktop\ödevler\odev3\odev3\bin\Debug\netcoreapp3.1\odev3.runtimeconfig.dev.json
+C:\Users\İsmail\Desktop\ödevler\odev3\odev3\bin\Debug\netcoreapp3.1\odev3.dll
+C:\Users\İsmail\Desktop\ödevler\odev3\odev3\bin\Debug\netcoreapp3.1\odev3.pdb
+C:\Users\İsmail\Desktop\ödevler\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.csproj.AssemblyReference.cache
+C:\Users\İsmail\Desktop\ödevler\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İsmail\Desktop\ödevler\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.AssemblyInfoInputs.cache
+C:\Users\İsmail\Desktop\ödevler\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.AssemblyInfo.cs
+C:\Users\İsmail\Desktop\ödevler\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.csproj.CoreCompileInputs.cache
+C:\Users\İsmail\Desktop\ödevler\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.dll
+C:\Users\İsmail\Desktop\ödevler\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.pdb
+C:\Users\İsmail\Desktop\ödevler\odev3\odev3\obj\Debug\netcoreapp3.1\odev3.genruntimeconfig.cache
