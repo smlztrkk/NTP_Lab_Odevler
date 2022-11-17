@@ -1,2 +1,2 @@
-# NTB_Lab_Odevler
+# NTP_Lab_Odevler
 nesne tabanlı programlama çdevleri
