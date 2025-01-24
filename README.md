@@ -1,2 +1,2 @@
 # NTP_Lab_Odevler
-nesne tabanlı programlama çdevleri
+nesne tabanlı programlama ödevleri
